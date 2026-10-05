@@ -31,5 +31,5 @@ jobs:
       - name: MyPy Type-checking
         run: uv run mypy .
 
-      # - name: Run Test Suite
-      #   run: uv run pytest
+      - name: Run Test Suite
+        run: uv run pytest
