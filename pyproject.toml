@@ -1,7 +1,7 @@
 [project]
 name = "achterhus-telemetry-client"
 version = "0.1.0"
-description = "Add your description here"
+description = "Client wrapper for reporting orchestrated service telemetry"
 readme = "README.md"
 authors = [
     { name = "Marco Wegner", email = "673439+marvey11@users.noreply.github.com" },
