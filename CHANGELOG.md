@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.0] - 2026-10-05
+
+### Added
+
+- `TelemetryClient` adapted to new API version ([fc2d8a4](https://github.com/marvey11/achterhus-telemetry-client/commit/fc2d8a43b4d406ea3b1a71a7b1b0527eacff9c8a)).
+
 ## [0.1.0] - 2026-09-20
 
 ### Added
