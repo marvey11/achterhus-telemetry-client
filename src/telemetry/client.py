@@ -2,10 +2,13 @@ import logging
 import os
 import uuid
 from datetime import UTC, datetime
-from types import TracebackType
-from typing import Literal, Self
+from typing import TYPE_CHECKING, Literal, Self
 
 import requests
+
+if TYPE_CHECKING:
+    from types import TracebackType
+
 
 logger = logging.getLogger(__name__)
 

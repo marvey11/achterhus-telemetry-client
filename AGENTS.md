@@ -4,7 +4,7 @@
 
 ## Repository layout
 
-- This is a Python 3.12+ project using the `src/` layout.
+- This is a Python 3.14+ project using the `src/` layout.
 - Package code lives in `src/telemetry/`.
 - Tests live in `tests/` and use pytest.
 - Dependencies and tool configuration are defined in `pyproject.toml`; `uv.lock` is committed.
@@ -24,7 +24,7 @@ uv run mypy .
 
 ## Conventions
 
-- Target Python 3.12 or newer.
+- Target Python 3.14 or newer.
 - Use 4 spaces and a maximum line length of 88 characters.
 - Use double-quoted strings, consistent with Ruff format configuration.
 - Add explicit annotations for functions, parameters, and return values.
