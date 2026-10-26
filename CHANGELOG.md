@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- Add `pyright` to CI and `pre-commit` checks.
+
 ### Changed
 
 - Bump Python to version 3.14.

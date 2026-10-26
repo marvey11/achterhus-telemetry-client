@@ -20,6 +20,7 @@ uv run pytest
 uv run ruff check .
 uv run ruff format --check .
 uv run mypy .
+uv run pyright
 ```
 
 ## Conventions
@@ -39,6 +40,7 @@ Run the same checks that CI runs before submitting changes:
 uv run ruff check .
 uv run ruff format --check .
 uv run mypy .
+uv run pyright
 uv run pytest
 ```
 
