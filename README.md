@@ -6,7 +6,7 @@ orchestrator; the client reports activity for the run assigned to its container.
 
 ## Requirements
 
-- Python 3.12 or newer
+- Python 3.14 or newer
 - An API URL reachable from the service container
 - A `SERVICE_RUN_ID` UUID assigned by the orchestrator
 
