@@ -35,4 +35,4 @@ jobs:
         run: uv run pyright
 
       - name: Run Test Suite
-        run: uv run pytest
+        run: ./scripts/run-coverage.sh
