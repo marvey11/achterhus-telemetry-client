@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.1] - 2026-10-26
+
+### Changed
+
+- Several automatic dependencies updated (via `dependabot`).
+- Updated `pre-commit` action versions.
+
+### Security
+
+- Critical dependency updates for packages with vulnerabilities.
+
 ## [0.2.0] - 2026-10-05
 
 ### Added

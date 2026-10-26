@@ -1,6 +1,6 @@
 [project]
 name = "achterhus-telemetry-client"
-version = "0.2.0"
+version = "0.2.1"
 description = "Client wrapper for reporting orchestrated service telemetry"
 readme = "README.md"
 authors = [
